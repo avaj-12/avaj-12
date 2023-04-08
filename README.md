@@ -35,9 +35,9 @@
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-ashwingupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin-gupta-424b401ab//)](https://www.linkedin.com/in/ashwin-gupta-424b401ab/)
-
+-->
 
 
 <!--
